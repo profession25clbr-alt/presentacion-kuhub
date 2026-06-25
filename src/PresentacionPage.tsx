@@ -16,7 +16,7 @@ const slideVariants = {
 
 const integrantes = [
   { nombre: 'Matheus de Lara',  rol: 'Fullstack · Arquitectura · Infraestructura' },
-  { nombre: 'Francisco Gomes',  rol: 'Backend · Base de datos · Cliente' },
+  { nombre: 'Francisco Gomez',  rol: 'Backend · Base de datos · Cliente' },
   { nombre: 'Benjamin Aravena', rol: 'Frontend · UX · Diseño' },
 ];
 
