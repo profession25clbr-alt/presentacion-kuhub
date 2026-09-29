@@ -4,16 +4,16 @@ Presentación interactiva del sistema KuHub, desarrollada como aplicación stand
 
 ## Slides
 
-1. **Portada** — Equipo de desarrollo
-2. **Problema** — Por qué se desarrolló KuHub
-3. **¿Por qué KuHub?** — Propuesta de valor
-4. **Solución** — Beneficios vs problemas
-5. **Pruebas automatizadas** — 125 tests con Vitest
-6. **Mejoras realizadas** — Ciclo prueba → hallazgo → mejora
-7. **Stack tecnológico** — Frontend, Backend, Infraestructura
-8. **¿Cómo funciona?** — Flujo de solicitud a clase
-9. **Metodología** — Ciclo iterativo con el cliente
-10. **Lecciones aprendidas** — Reflexión del equipo
+1. **Apertura** — Presentación del cliente (Escuela de Gastronomía DuocUC) y equipo de desarrollo
+2. **Problema** — Causas y efectos (diagrama Ishikawa) de la gestión manual en Excel
+3. **Objetivos** — Objetivo general y específicos
+4. **Alcance** — Entregables, supuestos y restricciones del proyecto y del producto
+5. **Metodología** — Ciclo iterativo con el cliente
+6. **Arquitectura** — Arquitectura, roles y seguridad
+7. **Tecnología** — Justificación de Cloud y requerimientos
+8. **Flujo** — Flujo del proceso y demostración
+9. **Pruebas** — Plan de pruebas y resultados (125 tests con Vitest)
+10. **Conclusiones** — Reflexión final del equipo
 
 ## Navegación
 
